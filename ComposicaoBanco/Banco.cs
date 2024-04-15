@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ComposicaoBanco
 {
-    public class Banco
+    public class Classe
     {
         public List<Poupanca> ContasPoupanca { get; set; }
         public List<ContaCorrente> ContasCorrente { get; set; }
