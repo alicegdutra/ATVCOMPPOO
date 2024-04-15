@@ -1,0 +1,15 @@
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.csproj.AssemblyReference.cache
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.AssemblyInfoInputs.cache
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.AssemblyInfo.cs
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.exe
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.deps.json
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.runtimeconfig.json
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.dll
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.pdb
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.dll
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\obj\Debug\net6.0\refint\ComposicaoBanco.dll
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.pdb
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.genruntimeconfig.cache
+C:\xampp\htdocs\ATVCOMPPOO\ComposicaoBanco\obj\Debug\net6.0\ref\ComposicaoBanco.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\ATVCOMPPOO\\ATVCOMPPOO.csproj",
-      "projectName": "ATVCOMPPOO",
-      "projectPath": "C:\\xampp\\htdocs\\ATVCOMPPOO\\ATVCOMPPOO.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\ATVCOMPPOO\\ComposicaoBanco\\ComposicaoBanco.csproj",
+      "projectName": "ComposicaoBanco",
+      "projectPath": "C:\\xampp\\htdocs\\ATVCOMPPOO\\ComposicaoBanco\\ComposicaoBanco.csproj",
       "packagesPath": "C:\\Users\\alice\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\ATVCOMPPOO\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\ATVCOMPPOO\\ComposicaoBanco\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alice\\AppData\\Roaming\\NuGet\\NuGet.Config"
